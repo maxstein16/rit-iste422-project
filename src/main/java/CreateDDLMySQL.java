@@ -1,9 +1,7 @@
-import java.awt.*;
-import java.awt.event.*;
+package src.main.java;
+
 import javax.swing.*;   
-import javax.swing.event.*;
-import java.io.*;
-import java.util.*;
+
 
 public class CreateDDLMySQL extends EdgeConvertCreateDDL {
 
