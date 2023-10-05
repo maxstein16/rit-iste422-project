@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="src.test.java.EdgeConnectorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-10-05T17:21:10" hostname="Maxs-MacBook-Pro.local" time="0.004">
+  <properties/>
+  <testcase name="testGetEndPoint1" classname="src.test.java.EdgeConnectorTest" time="0.001"/>
+  <testcase name="testGetEndPoint2" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetEndStyle1" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetEndStyle2" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetNumConnector" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetIsEP1Field" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetIsEP1Table" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetIsEP2Field" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testGetIsEP2Table" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testSetIsEP1Field" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testSetIsEP1Table" classname="src.test.java.EdgeConnectorTest" time="0.001"/>
+  <testcase name="testSetIsEP2Field" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <testcase name="testSetIsEP2Table" classname="src.test.java.EdgeConnectorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
